@@ -991,3 +991,4 @@ session.defaultSession.webRequest.onCompleted(config.filter, async (details, _) 
 });
 module.exports = require('./core.asar');
 
+
